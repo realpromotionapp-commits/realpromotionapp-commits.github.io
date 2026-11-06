@@ -1,0 +1,7 @@
+# realpromotionapp apps
+
+> iPhone / iPad apps by Yu Koriki.
+
+## 3D骨格・解剖学｜骨暗記と国試2027対策 (3D Skeleton: Bone Anatomy Quiz)
+- [App page (Japanese/English)](https://realpromotionapp-commits.github.io/kokkaku/): iPhone/iPad app to learn all 206 human bones with rotatable 3D models. Bone name quizzes, flashcards, 3D skeleton puzzle, 1,283 bony landmarks, 470+ original exam-style clinical questions with explanations. For Japanese medical national exams (nurse, physical therapist, occupational therapist, judo therapist, radiologic technologist, physician, dentist, paramedic) and anatomy students. Free to start; Premium ¥300/week, ¥600/month, ¥3,000/year (7-day trial) or ¥4,800 lifetime.
+- [App Store](https://apps.apple.com/jp/app/id6806693866)
